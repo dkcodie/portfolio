@@ -38,7 +38,7 @@ Setup Instructions
 1. **Clone the Repository**
 
    ```bash
-   git clone git@github.com:dkcody/portfolio.git
+   git clone git@github.com:dkcodie/portfolio.git
    ```
 
 2. **Navigate to Project Directory**
