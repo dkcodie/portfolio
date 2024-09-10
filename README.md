@@ -90,7 +90,7 @@ Features
 
 Contact
 
-For any inquiries, please reach out via email: [dkcodie@yahoo.com](mailto:dkcodie@gmail.com)
+For any inquiries, please reach out via email: [dkcodie@gmail.com](mailto:dkcodie@gmail.com)
 
 ---
 
